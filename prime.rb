@@ -17,4 +17,4 @@ def prime?(number)
   end
 end
 
-prime?(1763)
+
